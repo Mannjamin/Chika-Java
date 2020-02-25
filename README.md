@@ -10,6 +10,9 @@ A basic Java executable for demonstrating the Chika Formula for checking if an I
 ## How it works
 1.  Open any preferred console in the directory containing the jar file.
 2.  Write into the console `java -jar chika.jar [INSERT INTEGER]`
+>  We assume anyone using this Jar file will already have Java installed on their system.
+
+>  Futhermore, we assume anyone using Windows 10, has added Java to PATH for command prompt / powershell / bash
 
 ## Example
 ```
