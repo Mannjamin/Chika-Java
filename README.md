@@ -24,3 +24,6 @@ Input: 2996
 2 + 1 x 5 = 7
 Input is a multiple of 7!
 ```
+
+## Reference:
+[Nigerian Kid, Chika, Propounds New Maths Formula, Recognised By UK School](https://allafrica.com/stories/201911130037.html "Nigerian Kid, Chika, Propounds New Maths Formula, Recognised By UK School")
